@@ -1,0 +1,7 @@
+/srinivas/AmgXWrapper/build/lib/libAmgXWrapper.so
+/srinivas/AmgXWrapper/build/include/AmgXSolver.hpp
+/srinivas/AmgXWrapper/build/doc/Doxyfile
+/srinivas/AmgXWrapper/build/doc/dependencies.md
+/srinivas/AmgXWrapper/build/doc/install.md
+/srinivas/AmgXWrapper/build/doc/test.md
+/srinivas/AmgXWrapper/build/doc/usage.md
